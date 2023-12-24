@@ -37,7 +37,7 @@ public class LinearHomeworkChart
                 dataset,
                 PlotOrientation.VERTICAL,
                 true,
-                true,
+                false,
                 false
         );
 

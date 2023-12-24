@@ -17,8 +17,8 @@ import com.vk.api.sdk.objects.users.Fields;
 
 public class VkService
 {
-    private static final Long APP_ID = 468429970L;
-    private static final String CODE = "vk1.a.IrtHdgX9ZG9MPyWoti6ORnr1EGnfywpRsmSndA-ofMOqPTrP4JyUB6ql3f-4r_u_MCJ4Adk_x04gSpTuZsZNRCmciwroivOM5FHId0-wY2iJ3Lxkkh-Mb1XU9qYdJBkoDPgrnmfMip2tZsLGPum74_VdSl_6SHZNQ95CioHEQei5EpL513iOBpHSSrTv9r18";
+    private static final Long APP_ID = 1L;
+    private static final String CODE = "";
 
     private final VkApiClient client;
     private final UserActor userActor;
